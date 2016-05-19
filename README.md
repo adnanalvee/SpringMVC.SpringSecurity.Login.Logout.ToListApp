@@ -13,4 +13,5 @@ To run, make sure you have *maven* installed.
 2. Run the following commands
 
  `mvn clean package`
+ 
  `mvn tomcat:run -Dmaven.tomcat.port=8080`
